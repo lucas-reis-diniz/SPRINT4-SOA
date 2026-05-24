@@ -21,9 +21,9 @@ Validação realizada:
 - Testes automatizados: 11 aprovados, 0 falhas.
 
 Integrantes:
-Diana Letícia de Souza Inocencio — RM553562
-João Viktor Carvalho de Souza — RM552613
-Lucas Reis Diniz — RM552838
-Thiago Araújo Vieira — RM553477
-Victor Augusto Pereira dos Santos — RM553518
-Vitor de Moura Nascimento — RM553806
+**Diana Letícia de Souza Inocencio — RM553562**
+**João Viktor Carvalho de Souza — RM552613**
+**Lucas Reis Diniz — RM552838**
+**Thiago Araújo Vieira — RM553477**
+**Victor Augusto Pereira dos Santos — RM553518**
+**Vitor de Moura Nascimento — RM553806**
