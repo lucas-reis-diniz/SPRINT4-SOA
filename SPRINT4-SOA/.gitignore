@@ -1,0 +1,32 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+.vs/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+## NuGet
+*.nupkg
+**/packages/*
+*.nuget.props
+*.nuget.targets
+
+## Misc
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+## User secrets
+secrets.json
+
+## appsettings overrides
+appsettings.Development.json
